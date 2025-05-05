@@ -13,7 +13,7 @@ Sqlite (ou outro banco suportado pelo Prisma se configurado)
 
 Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/cafeteria-prisma.git
+   git clone https://github.com/Pedroporto87/cafeteria-prisma.git
 
    Instale as dependencias
    npm init
